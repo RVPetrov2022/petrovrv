@@ -1,0 +1,27 @@
+@media screen and (max-width: 1050px) {
+
+main section:nth-child(2n+1) {
+margin: 0 auto;   /*По центру выравнивание блоков section */
+display: flex;
+flex-direction: row;
+/*justify-content: space-between; */
+flex-wrap: wrap;  
+gap: 10px;
+height: 100%;
+ width: 650px; /*****Ограничиваем ширину блока */  
+font-size: 1.2em;  
+  } 
+
+@media screen and (max-width: 650px) {
+
+main section:nth-child(2n+1) {
+width: 300px; /*****Ограничиваем ширину блока */  
+
+  } 
+ main section p {
+display: block;    
+margin: 0 auto;   
+ 
+    
+  }
+}
