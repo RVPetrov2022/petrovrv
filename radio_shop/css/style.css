@@ -219,8 +219,8 @@ justify-content: center;
 
 main .container h3 {
 text-align: center; 
-color: blue;
-text-shadow: 1px 1px 10px red;
+color: #157d6f;
+text-shadow: 1px 1px 10px #bfa8a8;
 }
 
 
@@ -430,7 +430,7 @@ flex-direction: column;
 
 
 /***************************************************
-          Каталог популярных  товаров
+          INDEX.HTML Каталог популярных  товаров
 ****************************************************/
 .main_catalog {
 padding: 20px 0;   
@@ -512,6 +512,7 @@ mix-blend-mode: multiply;
 .main_catalog .container .card:nth-child(1) .img {
 background-image: url('../images/img_index/ant_2.jpg');    
 mix-blend-mode: multiply;
+
 }
 
 
@@ -520,6 +521,10 @@ background-image: url('../images/img_index/tnc_bnc.jpg');
  mix-blend-mode: difference;   
 }
 
+.main_catalog .container .card:nth-child(5) .img {
+background-image: url('../images/radio_shop/led_meter/voltmetr/ac/ac_dc_voltmetr.jpg');    
+mix-blend-mode: hard-light;
+}
 /**********************************************************
              PRODUCT.HTML 
 **********************************************************/
@@ -553,6 +558,11 @@ background-image: url('../images/img_index/tnc_bnc.jpg');
     font: bold 32px/48px 'roboto';
     color: #150b37;
 }
+
+/***********************************************************
+   Каталог товаров         
+CATALOG.HTML
+************************************************************/
 .item-desk {
     display: grid;
     gap: 16px;
@@ -561,10 +571,40 @@ background-image: url('../images/img_index/tnc_bnc.jpg');
 .item {
     width: 180px;
     cursor: pointer;
+    
+}
+
+.item a {
+ text-decoration:  none;   
+    
 }
 .item:hover {
     box-shadow: 1px 1px 15px rgba(0,0,0,0.3);
+    width: 250px;
 }
+
+/**********  Выравнивание заголовка H3 в контейнере ***************/
+div .item h3 {
+display: inline-block;
+margin: auto;    
+font-size: 0.8em;
+width: 245px;
+}
+/**********  Выравнивание фотографии в контейнере ***************/
+div .item img {
+display: block;
+height: 300px;    
+margin: auto; 
+}
+div.item p {
+/*! background-color: #ddcdcd; */
+height: 80px;
+}
+div.item button {
+background-color: #168436;
+
+}
+
 /************************** КНОПКА КУПИТЬ BUY  ***************************/
 .buy,
 .item button {

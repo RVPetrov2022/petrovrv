@@ -1,15 +1,29 @@
 @media screen and (max-width: 390px) {
 
   body {
-font-size: 1.2em;   
+font-size: 0.8em;   
   }  
-main section article  {
-width: 260px;
 
-}
-
-  footer {
+footer {
  background-color: #58584b;
+}  
+
+  main section article{
+  margin: 0px;
+  padding: 0px;
   }  
   
+ main section {
+margin: 0px;
+ padding: 0px;
+ 
+  }  
+  
+  main section:nth-child(2n+1) {
+    width:200px;
+  }
+  main section article:nth-child(3) {
+
+  }
+
 }
