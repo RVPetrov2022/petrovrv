@@ -7,7 +7,12 @@ font-size: 0.8em;
 footer {
  background-color: #58584b;
 }  
-
+/*********************************** MAIN *******************/
+  main {
+/* background-color: blue; */
+ margin-top: 60px; /* Сдвиг вниз */
+ 
+  }
   main section article{
   margin: 0px;
   padding: 0px;
@@ -24,6 +29,30 @@ margin: 0px;
   }
   main section article:nth-child(3) {
 
+  }
+/*********************************************
+  Contact.HTML
+*******************************************/
+  main.map section.map:nth-child(1) {
+  margin-top: 40px;
+  height: 100vh;
+    
+  }
+
+ main.map section.map:nth-child(1) div{
+ margin:5px auto;
+ 
+ }  
+  
+main.map section.map:nth-child(1) div img.map {
+  width: 200px;
+  height: 100px;
+  }  
+ 
+ main.map section.map div li {
+ font-size: 0.8em;
+ margin: 3px;
+ 
   }
 
 }

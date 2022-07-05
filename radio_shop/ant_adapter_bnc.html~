@@ -2,15 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<meta name="title" content="Карточка товара">
-<meta name="description" content="Карточка товаров ">
-<meta name="keywords" content="Карточка товаров">
+<meta name="title" content="Антенные переходники BNC">
+<meta name="description" content="Карточка товаровАнтенные переходники BNC ">
+<meta name="keywords" content="переходник pl bnc,переходник bnc male bnc male,переходник tnc bnc, переходник bnc pl 259,переходник bnc rj45,переходник sma bnc,переходник bnc rca">
 <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="Russian">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-<title>Карточка товаров</title>
+<title>Антенные переходники BNC</title>
     
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/style_tablet.css">   <!--Версия для планшетов  -->
@@ -158,29 +158,26 @@
                             </li>
           </nav>
                 </aside>
-                
+                <!-- Карточка товара -->
                 <article>
                     <h1>Карточка товара</h1>
                     
                     <div class="imagedesk">
                         <div class="bigimage">
-                            <img src="images/zver.jpg" alt="капибара">
+                            <img src="images/radio_shop/adapter/bnc/-409959410-1559827966.jpg" width="900" height="900" alt="Переходник BNC в BNC">
                         </div>
                         <div class="mini">
                             <div>
                                 <div class="rail">
-                                    <img src="images/mini_zver.jpg" alt="капибара">
-                                    <img src="images/mini_pelmen.jpg" alt="пельмень">
-                                    <img src="images/mini_doshik.jpg" alt="дошик">
-                                    <img src="images/mini_kniga.jpg" alt="книга">
-                                    <img src="images/mini_zver.jpg" alt="капибара">
-                                    <img src="images/mini_pelmen.jpg" alt="пельмень">
-                                    <img src="images/mini_doshik.jpg" alt="дошик">
-                                    <img src="images/mini_kniga.jpg" alt="книга">
-                                    <img src="images/mini_zver.jpg" alt="капибара">
-                                    <img src="images/mini_pelmen.jpg" alt="пельмень">
-                                    <img src="images/mini_doshik.jpg" alt="дошик">
-                                    <img src="images/mini_kniga.jpg" alt="книга">
+                                    <img src="images/radio_shop/adapter/bnc/-409959410-1559827966.jpg"  alt="BNC тройник">
+                                    <img src="images/radio_shop/adapter/bnc/-1202479092-1608203205.jpg" alt="Переходник BNC в SMA-F">
+                                    <img src="images/radio_shop/adapter/bnc/-1469528484-1495285995.jpg"  alt="Переходник BNC в SO-239">
+                                    <img src="images/radio_shop/adapter/bnc/-1646907484-1675525431.jpg" alt="Переходник BNC в SMA-F">
+                                    <img src="images/radio_shop/adapter/bnc/-1699167432-490405812.jpg"  alt="Переходник BNC в SMA-F">
+                                    <img src="images/radio_shop/adapter/bnc/-140099714756177932.jpg"  alt="Переходник BNC в PL259">
+                                    <img src="images/radio_shop/adapter/bnc/1581893851170583374.jpg" alt="Переходник BNC для радиостанции  Моторола">
+                     
+                                
                                 </div>
                             </div>
                             <span class="gal_left">&#8249;</span>

@@ -16,7 +16,7 @@ height: 180px;
 }
 /****************  FOTO RADIO ************/
 header div:nth-child(1) {
-background-color: red;
+background-color: #555;
 height: 140px; 
 background-image: url('../img/index/yaesu_sm500_0.jpg') ;
 background-repeat: no-repeat;
@@ -63,7 +63,72 @@ nav a:hover {
 background-color: #38352c;  
 color: #dfe1ec;  
 }
-/******************  MAIN **********/
+/***************************************
+  PAYPAL.HTML
+  MAIN
+****************************************/
+section.paypal {
+/* background-color: red; */
+}
+section.paypal div  li {
+display: block;
+margin: 10px auto;
+}
+div.card_3 div.img {
+background-image: url('../radio_shop/images/img_index/alfa_bank.jpg');
+background-repeat: no-repeat;
+width: 200px;
+height: 100px;
+margin: 10px auto;
+}
+
+div.card_2 div.img {
+background-image: url('../radio_shop/images/img_index/sber_bank.jpg');
+background-repeat: no-repeat;
+width: 200px;
+height: 100px;
+margin: 10px auto;
+}
+
+
+
+/****************************************** 
+CONTACT.HTML
+MAIN
+******************************************/
+main.map {
+/* background-color: teal;  */
+width: 600px;  
+margin: auto;  
+}
+main.map section.map:nth-child(1) {
+margin:10px auto; /***** Выравнивание по центру *****/
+display: flex;
+flex-direction: column;
+justify-content: start;
+height: 100%;
+width: 100%;
+letter-spacing: 0.08em;
+font-size: 1.1em;  
+}
+
+
+main.map section.map div img.map {
+  width: 600px;
+  height: 400px;
+  }  
+
+
+
+div.map li {
+display: block;
+ 
+}
+
+/****************************************** 
+INDEX.HTML
+MAIN
+******************************************/
 main {
 height: 100%;  
 }
