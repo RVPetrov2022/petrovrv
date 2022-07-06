@@ -51,10 +51,14 @@ margin: 0 auto;
   CONTACT.HTML
 ****************************************/
  main.map {
-margin: auto;
+margin:  auto;
 width: 360px;
   }
 
+  main.map section.map:nth-child(1) {
+  margin-top: 40px;
+  }
+  
 main.map section.map:nth-child(1) div img.map {
 width: 360px;
 height: 180px;

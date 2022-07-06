@@ -166,23 +166,23 @@
                                    
                         <div class="item" data-href="product.html">
                             <h3>Антенны 27 МГц</h3>
-                            <img src="images/zver.png" alt="картинка товара">
+                            <img src="images/radio_shop/antenna/27mhz/650735619-2103305686.jpg" width="245" alt="Антенна для радиостанций 27 МГц">
                             <p>Антенны 27 МГц</p>
-                           <a href = "" title="" >  <button type="button">Просмотр</button> </a>
+                           <a href = "antenns_cb.html" title="" >  <button type="button">Просмотр</button> </a>
                         </div>
                         
 							   <div class="item" data-href="product.html">
                             <h3>Антенны 144/430 МГц</h3>
                             <img src="images/radio_shop/antenna/144_430mhz/-337535912-1953926019.jpg" width="245" alt="Антенны для носимых радисотанций">
                             <p>Антенны 144/430 МГц.</p>
-                            <a href = "" title="" > <button type="button">Просмотр</button> </a>
+                            <a href = "antenns_vhf_uhf.html" title="" > <button type="button">Просмотр</button> </a>
                         </div>                        
                         
   								 <div class="item" data-href="product.html">
                             <h3>Антенны 900 МГц</h3>
                             <img src="images/radio_shop/antenna/900mhz/-562391061-1018435096.jpg" width="245" alt="Антенна GSM 900МГц">
                             <p>Антенны 900 МГц</p>
-                           <a href = "" title="" >  <button type="button">Просмотр</button></a>
+                           <a href = "antenns_900mhz.html" title="" >  <button type="button">Просмотр</button></a>
                         </div>                        
 
 
@@ -190,14 +190,14 @@
                             <h3>Антенны LTE</h3>
                             <img src="images/radio_shop/antenna/lte/15468936971921390672.jpg" width="245" alt="Антенна диапазона LTE">
                             <p>Антенны LTE.</p>
-                            <a href = "" title="" > <button type="button">Просмотр</button></a>
+                            <a href = "antenns_lte" title="" > <button type="button">Просмотр</button></a>
                         </div>
 
   									 <div class="item" data-href="product.html">
                             <h3>Антенны Wi-Fi.</h3>
                             <img src="images/radio_shop/antenna/wifi/324661302616132185.jpg" width="245" alt="Антенна диапазона Wi-Fi">
                             <p>Антенны Wi-Fi.</p>
-                           <a href = "" title="" >  <button type="button">Просмотр</button></a>
+                           <a href = "antenns_wifi.html" title="" >  <button type="button">Просмотр</button></a>
                         </div>  
                                               
       <!-- Антенные переходники -->    
@@ -206,40 +206,40 @@
                             <h3>Переходники BNC</h3>
                             <img src="images/radio_shop/adapter/bnc/-1202479092-1608203205.jpg" width="245" alt="Антенный переходник BNC">
                             <p>Антенные переходники BNC.</p>
-                         <a href = "" title="" >  <button type="button">Просмотр</button></a>
+                         <a href = "adapter_bnc.html" title="" >  <button type="button">Просмотр</button></a>
                         </div>
                          
 								<div class="item">
                             <h3>Переходники PL259.</h3>
                             <img src="images/radio_shop/adapter/motorola/1488565595-1634981069.jpg" width="245"  alt="SO-239 антенный переходник">
                             <p>Антенные переходники PL259.</p>
-                          <a href = "" title="" > <button type="button">Просмотр</button></a>
+                          <a href = "adapter_pl259.html" title="" > <button type="button">Просмотр</button></a>
                         </div>
                         <div class="item">
                             <h3>Переходники Motorola</h3>
                             <img src="images/radio_shop/adapter/motorola/1110198066-327386512.jpg" width="245" alt="Антенный переходник для радиостанции Motorola">
                             <p>Антенные переходники для р.ст. Motorola</p>
-                         <a href = "" title="" >  <button type="button">Просмотр</button></a>
+                         <a href = "adapter_motorola.html" title="" >  <button type="button">Просмотр</button></a>
                         </div>            
 				            
 				              <div class="item">
                             <h3>Переходники N-type</h3>
                             <img src="images/radio_shop/adapter/n-type/1006137666-1256887775.jpg" width="245"  alt="Антенный переходник N-type">
                             <p>Антенные переходники N-type</p>
-                         <a href = "" title="" >  <button type="button">Просмотр</button></a>
+                         <a href = "adapter_n_type.html" title="" >  <button type="button">Просмотр</button></a>
                         </div>    
                         
 								<div class="item">
                             <h3>Переходники SMA.</h3>
                             <img src="images/radio_shop/adapter/sma/637932867-631336320.jpg" width="245"  alt="Антенный переходник SMA-F на PL259">
                             <p>Антенные переходники SMA.</p>
-                          <a href = "" title="" > <button type="button">Просмотр</button></a>
+                          <a href = "adapter_sma.html" title="" > <button type="button">Просмотр</button></a>
                         </div>             
 								<div class="item">
                             <h3>Переходники SO-239</h3>
                             <img src="images/radio_shop/adapter/so239/-990458671259404993.jpg" width="245" alt="Антенный переходник SO-239">
                             <p>Антенные переходники SO-239</p>
-                          <a href = "" title="" > <button type="button">Просмотр</button></a>
+                          <a href = "adapter_so_239.html" title="" > <button type="button">Просмотр</button></a>
                         </div>                        
                                    
                         
@@ -247,7 +247,7 @@
                             <h3>Переходники TNC.</h3>
                             <img src="images/radio_shop/adapter/tnc/-2053171114-1898163986.jpg" width="245"  alt="Антенный переходник TNC">
                             <p>Антенные переходники TNC.</p>
-                          <a href = "" title="" > <button type="button">Просмотр</button></a>
+                          <a href = "adapter_tnc.html" title="" > <button type="button">Просмотр</button></a>
                         </div>
                         
 <!--ПРОГРАММАТОРЫ -->                                   
@@ -321,7 +321,7 @@
                         
                          <div class="item">
                             <h3>Тангенты Icom.</h3>
-                            <img src="images/radio_shop/tangenta/baofeng/575981609-361853443.jpg" width="245" height="600" alt="Тангента для радиостанции Baofeng">
+                            <img src="images/radio_shop/tangenta/icom/1416470328139038543.jpg" width="245" alt="Тангента для радиостанции Icom">
                             <p>Тангенты и гаранитуры для р.ст. Icom.</p>
                             <a href = "" title="" > <button type="button">Просмотр</button></a>
                         </div>
@@ -344,7 +344,7 @@
                        
                           <div class="item">
                             <h3>Тангенты Yaesu.</h3>
-                            <img src="images/zver.png" alt="картинка товара">
+                            <img src="images/radio_shop/tangenta/yaesu/1935559178-176853692.jpg" width="245" alt="Тангенты и гаранитуры для р.ст. Yaesu.">
                             <p>Тангенты и гаранитуры для р.ст. Yaesu.</p>
                             <a href = "" title="" > <button type="button">Просмотр</button></a>
                         </div>

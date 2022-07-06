@@ -723,14 +723,20 @@ background-color: #168436;
     display: block;
     transition: all .5s step-end;
 }
-
+/*********************************
+ Карточка товаров
+**********************************/
 /* gallery */
 .bigimage {
     line-height: 0;
     margin-bottom: 16px;
 }
+/********* Размер большой фотографии *************/
 .bigimage img {
     cursor: pointer;
+    background-color: red;
+   width: 450px;
+    height: 450px;
 }
 .mini {
     width: 410px;
