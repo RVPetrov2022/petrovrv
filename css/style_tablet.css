@@ -43,8 +43,10 @@ display: block;
 margin: 0 auto;   
   }
  
-
-
+/***********  Yandex Money ***********/
+div.card_1 iframe {
+width: 200px;
+  }
   
 
 /******************************************

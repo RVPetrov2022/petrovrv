@@ -67,6 +67,11 @@ color: #dfe1ec;
   PAYPAL.HTML
   MAIN
 ****************************************/
+main.paypal {
+height: 100vh;
+
+}
+
 section.paypal {
 /* background-color: red; */
 }
@@ -90,8 +95,14 @@ height: 100px;
 margin: 10px auto;
 }
 
-
-
+/***********  Yandex Money ***********/
+div.card_1 {
+width: 300px;
+}
+div.card_1 iframe {
+height: 300px;
+margin: auto;
+}
 /****************************************** 
 CONTACT.HTML
 MAIN
@@ -141,7 +152,7 @@ gap: 10px;
 /*! background-color: red; */
 margin-left: 10px;
 margin-right: 10px;  
-height: 430px;
+height: 450px;
 /*! border: 1px dashed #241e1e; */
 /*! border-radius: 10px; */
 }
@@ -181,28 +192,29 @@ border-radius: 2px;
 }
 
 /***************Первая  секция *****************/
-main section article:nth-child(1) {
+/* main section article:nth-child(1) {
 background-image: url('../img/pcb_2_1.jpg');
 background-repeat: no-repeat;
 background-size: cover;
 
 
-}
+} */
+
 /***************Вторая секция *****************/
-main section article:nth-child(2) {
+/* main section article:nth-child(2) {
 background-image: url('../img/pcb_1_1.jpg');
 background-repeat: no-repeat;
 background-size: cover;
 
-}
+} */
 
 
 /***************Третья  секция *****************/
-main section article:nth-child(3) {
+/* main section article:nth-child(3) {
 background-image: url('../img/radio_cb_1_1.jpg');
 background-repeat: no-repeat;
 background-size: cover;
-}
+} */
 
 
 main section article li  {

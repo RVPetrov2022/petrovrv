@@ -9,72 +9,81 @@
   <meta charset="UTF-8">
   <meta name="description" content="Разработка электрических схем, проектирование печатных плат в PCAD, Eagle и Cadence. Услуги схемотехника, электронщика, программиста микрокнтроллеров AVR, инженер Петров. Electrical design, PCAD, Eagle and Cadence PCAD board design. Services of circuit technician, electronics engineer, programmer of AVR microcontrollers, engineer Petrov. Entwicklung von elektrischen Schaltungen, Entwurf von Leiterplatten in PCAD, Eagle und Cadence. Dienstleistungen von Schaltungstechnik, Elektroniker, Programmierer von AVR Mikroknetroller, Ingenieur Petrov.">
   <meta name="keywords" content="разработка электроники на заказ, разработка электроники на заказ москва	 , инженер эмс, инженер радиотехники, инженер схемотехник, схемотехник, разработка схемы, разработка схемы устройства, разработка печатных плат, разработка печатных плат на заказ, разработка электрических схем, разработка электрических схем на заказ,разработка электроники на заказ, проверка работоспособности радиостанции,проверка работы радиостанции, проверка антенны, ремонт автомобильных радиостанций, ремонт радиостанций в москве, программирование микросхем, мастер по ремонту компьютеров на дому, ремонт компьютеров частник, Петров Роман,  custom electronics development, custom electronics development moscow, ems engineer, radio engineer, circuit engineer, circuit engineer, circuit engineer, circuit development, device diagram development, development of printed circuit boards, development of custom printed circuit boards, development of electrical circuits, development of custom electrical circuits, development of custom electronics, serviceability check of the radio station,check of radio station operation, antenna check, repair of automobile radio stations, repair of radio stations in Moscow, programming microcircuits, master of computer repair at home, computer repair private trader, Petrov Roman ">
-  <meta name="author" content="Roman" >
+  <meta name="author" content="roman" >
 <!-- 
 <meta name="viewport" content="width=1200">
 <meta name="viewport" content="device-width">
 
  -->
 	<link rel="stylesheet" href="css/style.css">
+
 	<link rel="stylesheet" href="css/style_tablet.css">
-	<link rel="stylesheet" href="css/style_mobile.css">
+   <link rel="stylesheet" href="css/style_mobile.css">
 	<title>Портфолио работ, Петров Роман</title>
 
 </head>
 <body>
 <header>
-	<div></div>
-	<div></div>
+	<div title="Сайт Петрова Романа, 8(905)341-79-19, proftpd@mail.ru"></div>
+	<div title="Это я, Петров Роман, радиолюбитель и  инженер."></div>
 	<div>
 	  <nav>
-	   <span class="link_menu"> <a href="radio_shop/index.html" target="_blank" title="Radio shop">Магазин</a>  </span>
-		<span class="link_menu"><a href="https://www.youtube.com/c/PetrovRV2010/videos" target="_parent" title="Перейти на мой канал">Портфолио </a> </span>
-		<span class="link_menu"><a href="https://web.facebook.com/aor8200/" title="Я в социальной сети FaceBook, I'm on a social network FaceBook">FaceBook</a> </span>
+	  <span class="link_menu"> <a href="index.html" target="_blank" title="Контактная информаци">Главная</a>  </span>
+	   <span class="link_menu"> <a href="contact.html" target="_blank" title="Контактная информаци">Контакты</a>  </span>
+	   <span class="link_menu"> <a href="paypal.html" target="_blank" title="Платежные реквизиты для опалты услуг">Оплата</a>  </span>
+	   <span class="link_menu"> <a href="radio_shop/index.html" target="_blank" title="Интернет-магазин средств радиосвязи">Магазин</a>  </span>
+	   <span class="link_menu"><a href="https://proftpd2000.livejournal.com/" target="_parent" title="Блог на сайте LiveJournal.com">LiveJournal </a> </span>
+		<span class="link_menu"><a href="https://www.youtube.com/c/PetrovRV2010/videos" target="_parent" title="Перейти на мой канал">YouTube </a> </span>
+	<!--	<span class="link_menu"><a href="https://web.facebook.com/aor8200/" title="Я в социальной сети FaceBook, I'm on a social network FaceBook">FaceBook</a> </span>
 		<span class="link_menu"><a href="https://www.instagram.com/petrov_roman6463/" title="Я в Instagram, I'm on a social network Instagram">Instagram</a>  </span>
-		  
+	-->	  
 	  	</nav>
 	</div>
 </header>
  <main>
 	<section>
-		<article style="background-image:url('img/pcb_1.jpg')" >
+		<article title="Услуги для юридических лиц.">
 			<h3>Юр. лицам. </h3>
-			<p > 
+			<p>
 					<li>Отладка чужих разработок</li>
 					<li>Подбор взаимозаменяемых электронных компонентов</li>
-					<li>Прошивка микроконтроллеров</li>
-					<li>Разработка печатных плат</li>
-					<li>Разработка программ для микроконтроллеров</li>
+					<li>Приобретение электронных компонентов и модулей.</li>
+					<li title="Чтение и прошивка микроконтроллеров всех производителей">Прошивка микроконтроллеров</li>
+					<li title="Разработка печатных плат PCAD2002, Cadence, Eagle">Разработка печатных плат</li>
+					<li title="Пишу программы для AVR на Assembler">Разработка программ для микроконтроллеров AVR</li>
 					<li>Разработка электрических схем </li>
-					<li>Ремонт электроники промышленного оборудования</li>
-					<li>Сборка и отладка разработанного изделия</li>
-					<li>Участие  в проведение испытаний</li>
-					<li>Участие в научно исследовательских работах</li>
+					<li title="Услуги сервисного инженера по ремонту оборудования">Ремонт электроники промышленного оборудования</li>
+					<li title="Услуги наладчика РЭА, инженера-исследователя">Сборка и отладка разработанного изделия</li>
+					<li title="Услуги инженера испытателя">Участие  в проведение испытаний</li>
+					<li title="Услуги инженера-испытателя">Участие в научно исследовательских работах</li>
 			</p>
 		</article>
 		
-		<article>
+		<article title="Услуги для физических лиц.">
 			<h3> Физ. лицам.</h3>
 			<p>
-					<li>Компьютерная диагностика автомобилей.</li>
+			      
+			       <li><a href="car/car.html" target="_blank" title="Компьютерная диагностика автомобилей.">Компьютерная диагностика автомобилей.</a></li>
 					<li>Настройка компьютеров</li>
-					<li>Ремонт электроники</li>
-					<li>Услуги электрика</li>
+					<li>Настройка радиостанций </li>
+					<li>Настройка антенн</li>
+					 <li>Радиоизмерния</li>
+					<li title="Услуги по ремонту и нстройке втомобильных радиостанций">Ремонт радиостанций</li>
+					<li title="Услуги по ремонту бытовой и автомобильной электроники">Ремонт электроники</li>
+					<li title="Монтж розеток, электрической проводки, светильников, датчиков">Услуги электрика</li>
 			
 			</p>
 		</article>
-		<article>
+		<article title="Интернет-мгазин средств радиосвязи.">
 			    <h3> Интернет-магазин</h3>
 				<p>
 				
-					<li><a href="../radio_shop/index.html" title ="Перейти в интернет магазин" >Аккумуляторы</a></li>
-					<li><a href="../radio_shop/index.html" title ="Перейти в интернет магазин" >Антенны</a></li>
-					<li><a href="../radio_shop/index.html" title ="Перейти в интернет магазин" >Программаторы</a></li>
-					<li><a href="../radio_shop/index.html" title ="Перейти в интернет магазин" >Радиостанции</a></li>
-					<li><a href="../radio_shop/index.html" title ="Перейти в интернет магазин" >Тангенты</a></li>
-					
+					<li title="Продажа аккумуляторов для радиостанций"><a href="radio_shop/catalog.html" title="Перейти в интернет магазин">Аккумуляторы</a></li>
+					<li title="Продажа антенн"><a href="radio_shop/catalog.html" title ="Перейти в интернет магазин" >Антенны</a></li>
+					<li title="Продажа программаторов"><a href="radio_shop/catalog.html" title ="Перейти в интернет магазин" >Программаторы</a></li>
+					<li title="Продажа радиостнций"><a href="radio_shop/catalog.html" title ="Перейти в интернет магазин" >Радиостанции</a></li>
+					<li title="Продажа тангент и гарнитур для радиостанций"><a href="radio_shop/catalog.html" title ="Перейти в интернет магазин" >Тангенты</a></li>
 				</p>
-				   
 		
 		</article>
 	</section>
@@ -207,7 +216,7 @@
 		  </article>
 		  
 		  
-		   <article>
+		   <article title="Моя контактная информация">
 		  <p>
 			  <h3>Контакты</h3>
 			  <li>8(905)-341-79-19</li>
