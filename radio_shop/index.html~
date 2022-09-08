@@ -231,14 +231,14 @@
 					<div class="img"></div>
 					<div class="header">Термометры, гигрометры</div>
 					<div class="text">Измерители температуры и влажности </div>
-					<div class="follow_link"><a href="ac_dc.html" target="_parent" title="Цифровые и аналоговые измерители влажности и температуры">Смотреть</a></div>
+					<div class="follow_link"><a href="thermometr.html" target="_parent" title="Цифровые и аналоговые измерители влажности и температуры">Смотреть</a></div>
 				</div>
 				
 				<div class="card">
 					<div class="img"></div>
 					<div class="header">OBD2</div>
 					<div class="text">Диагностические кабели и переходники</div>
-					<div class="follow_link"><a href="ac_dc.html" target="_parent" title=" Диагностические кабели и переходники для OBD2">Смотреть</a></div>
+					<div class="follow_link"><a href="obd2.html" target="_parent" title=" Диагностические кабели и переходники для OBD2">Смотреть</a></div>
 				</div>
 			</div>	
 				

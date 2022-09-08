@@ -25,7 +25,7 @@
 		</section>
 	
         <section>
-            <p class="container">Интернет-магазин средств радиосвязи.<span>  8(909)-911-94-94 </span> <span><a href="mailto:proftpd@mail.ru?subject=Вопрос по товару">  proftpd@mail.ru</a> </span> </p>
+            <p class="container">Интернет-магазин средств радиосвязи <b>"RK75" </b>..<span>  8(909)-911-94-94 </span> <span><a href="mailto:proftpd@mail.ru?subject=Вопрос по товару">  proftpd@mail.ru</a> </span> </p>
         </section>
         
         <section class="mainhead">
@@ -56,8 +56,20 @@
                 <aside class="catmenu">
                                           <div class="opener">КАТАЛОГ <span class="icon cat"></span></div>
                     <nav class="accordeon">
-                          <ul>
-                            <li class="sub">
+                          
+                        <li class="sub">
+                                <a href="#">АвтоРемонт</a>
+                                  
+                                      <ul>
+                      						   <li><a href="obd2.html" target="_blank" title="иагностические устройства ELM327">ELM327</a></li>
+                     						   <li><a href="obd2.html" target="_blank" title="Диагностические устройства VAG KKL">VAG KKL</a></li>
+                     						   <li><a href="obd2.html" target="_blank" title="Кабели - переходники на OBD2">Адаптеры OBD2</a></li>
+                  					  </ul>
+                  					  <hr>
+                  			 </li>
+                           
+                         <li class="sub">
+                            
                                 <a href="antenns.html">Антенны</a>
                                 <ul>
                                     <li><a href="antenns.html" title="Антенны диапазона 27 МГц">27 МГц</a></li>
@@ -76,12 +88,12 @@
                                       
                                     </li>
                                    
-                                </ul>
-                                  <hr> 
-                            </li>
+                    
+                        <hr> 
+                           
                               <!--    -->
-                                    <ul>
-                            <li class="sub">
+                                   
+                       <li class="sub">
                                 <a href="#">Источники</a>
                                   
                                       <ul>
@@ -91,8 +103,8 @@
                   					  <hr>
                   			 </li>
                               <!--   -->
-                               <ul>
-                            <li class="sub">
+                             
+                       <li class="sub">
                                 <a href="ant_adapter.html">Переходники</a>
                                   
                                       <ul>
@@ -115,9 +127,8 @@
                        						<li><a href="radio_stations.html" target="_blank" title="Носимые радиотанции ">Носимые</a></li>
                                 </ul>
                                 <hr>
-                       </li>                  
-                              
-                            <li class="sub">
+                       </li>                       
+                       <li class="sub">
                                 <a href="tangenta.html">Тангенты</a>
                                 <ul>
                                           <li> <a href="tangenta.html" target="_blank" title="Тангенты и грнитуры для носимых и автомобильных радиостанций">Alan</a></li>
@@ -142,8 +153,8 @@
                             <li>
                                 <a href="#">Аксессуары</a>
                             </li>
-                             <hr> 
-                            <li class="sub">
+                            <hr> 
+                      <li class="sub">
                                 <a href="#">Радиолюбителю</a>
                                 <ul>
                                     <li><h4>Паяльники</h4></li>
@@ -157,14 +168,15 @@
                                       </ul>
                                   </ul>
                             </li>
-                            	 <hr> 
-                            <li class="sub">
+                            <hr> 
+                      <li class="sub">
                                 <a href="#">Индикаторы</a>
                                 <ul>
                                     <li><a href="led_indicator.html" target="_blank" title="Цифровые и аналоговые вольтметры">Вольтметры</a></li>
                                     <li><a href="led_indicator.html" target="_blank" title="Цифровые и аналоговые амперметры">Амперметры</a></li>
                                     <li><a href="led_indicator.html" target="_blank" title="Цифровые ватметры">Ваттметры</a></li>
-                                     
+                                    <li><a href="thermometr.html" target="_blank" title="Цифровые и аналоговые термометры и индикаторы влажности">Гигрометры</a></li>
+                                    <li><a href="thermometr.html" target="_blank" title="Цифровые и аналоговые термометры и индикаторы влажности">Гигрометры</a></li>
                                   </ul>
                             </li>
                             

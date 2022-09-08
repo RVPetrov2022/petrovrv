@@ -2,12 +2,12 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <meta name="description" content="Продажа источников питания, Проспект Вернадского д32">
-   <meta name="keywords" content="источник питания 220в 12в,  источник питания 12в купить, источник питания 12в 10а, источник питания 12в 7а, источник бесперебойного питания 12в 5а, источник питания 12В 15А, блок питания 12в 15а, блок питания 12в 15а купить, блок питания 12в 15а 180вт, блок питания 12в 20а, блок питания 12в 20а купить, блок питания 12в 20а 240вт купить, импульсный блок питания 12в 20а, блок питания 12в 25а купить, блок питания 12в 25а 300вт, блок питания 12в 30а купить, импульсный блок питания 12в 30а, импульсный блок питания 12в 30а купить, блок  питания 12В 35А, блок питания 12в 40а 500вт, блок питания 12в 40а купить ">
-     <meta name="author" content="roman" >
+  <meta name="description" content="Цифровые и налоговые термометры, измерители влажности, Проспект Вернадского д32">
+   <meta name="keywords" content="">
+    <meta name="author" content="roman" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <title>Источники питания</title>
+    <title>Термометры, измерители влажности</title>
      
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/style_tablet.css">   <!--Версия для планшетов  -->
@@ -25,7 +25,7 @@
 		</section>
 	
         <section>
-            <p class="container">Интернет-магазин средств радиосвязи.<span>  8(909)-911-94-94 </span> <span><a href="mailto:proftpd@mail.ru?subject=Вопрос по товару">  proftpd@mail.ru</a> </span> </p>
+            <p class="container">Интернет-магазин средств радиосвязи <b>"RK75" </b>..<span>  8(909)-911-94-94 </span> <span><a href="mailto:proftpd@mail.ru?subject=Вопрос по товару">  proftpd@mail.ru</a> </span> </p>
         </section>
         
         <section class="mainhead">
@@ -176,7 +176,7 @@
                                     <li><a href="led_indicator.html" target="_blank" title="Цифровые и аналоговые амперметры">Амперметры</a></li>
                                     <li><a href="led_indicator.html" target="_blank" title="Цифровые ватметры">Ваттметры</a></li>
                                     <li><a href="thermometr.html" target="_blank" title="Цифровые и аналоговые термометры и индикаторы влажности">Гигрометры</a></li>
-                                    <li><a href="thermometr.html" target="_blank" title="Цифровые и аналоговые термометры и индикаторы влажности">Гигрометры</a></li>
+                                    <li><a href="thermometr.html" target="_blank" title="Цифровые и аналоговые термометры и индикаторы влажности">Термометры</a></li>
                                   </ul>
                             </li>
                             
@@ -184,62 +184,77 @@
                 </aside>
           <!--               КАТАЛОГ ТОВАРОВ -->      
                 <article>
-                    <h2>Источники питания</h2>
+                    <h2>Цифровые термометры и измерители влажности</h2>
                    <div class="item-desk">
-                         
-                        
-                          <div class="item" >
-                          <h3>AC/DC</h3>
-                          <img src="images/radio_shop/ac_dc/-194390558465397369.jpg"  alt="Источник питания с 220В в 12В">
-                          <p>~220V->12V,3A </p>
-                           <a href="#"><button type="button">730.00</button></a>
+                   <div class="item" >
+                          <h3>Термометр</h3>
+                          <img src="images/radio_shop/thermometr/-197649748-657299132.jpg" alt="Цифровой темометр">
+                          <p>Диапазон измерений: 99С&deg;/99%</p>
+                           <a href="#"><button type="button">490.00</button></a>
                          </div> 
-                          <div class="item" >
-                          <h3>AC/DC</h3>
-                          <img src="images/radio_shop/ac_dc/-315739505-1388789088.jpg"  alt="Источник питания с 220В в 12В">
-                          <p>~220V->12V,10A </p>
-                           <a href="#"><button type="button">1430.00</button></a>
-                         </div> 
-                            <div class="item" >
-                          <h3>AC/DC</h3>
-                          <img src="images/radio_shop/ac_dc/-315739505-1388789088.jpg"  alt="Источник питания с 220В в 12В">
-                          <p>~220V->12V,15A </p>
-                           <a href="#"><button type="button">1570.00</button></a>
-                         </div> 
-                          <div class="item" >
-                          <h3>AC/DC</h3>
-                          <img src="images/radio_shop/ac_dc/-315739505-1388789088.jpg"  alt="Источник питания с 220В в 12В">
-                          <p>~220V->12V,20A </p>
-                           <a href="#"><button type="button">1890.00</button></a>
-                         </div> 
-                           <div class="item" >
-                          <h3>AC/DC</h3>
-                          <img src="images/radio_shop/ac_dc/-2994622632025118852.jpg"  alt="Источник питания с 220В в 12В">
-                          <p>~220V->12V,25A </p>
-                           <a href="#"><button type="button">2090.00</button></a>
+                    
+                      <div class="item" >
+                          <h3>Термометр+гигрометр</h3>
+                          <img src="images/radio_shop/thermometr/-311738770725368384.jpg" width="800" height="800" alt="Цифровой темометр-гигрометр">
+                          <p>Диапазон измерений: 99С&deg;/99%</p>
+                           <a href="#"><button type="button">290.00</button></a>
                          </div> 
                              <div class="item" >
-                          <h3>AC/DC</h3>
-                          <img src="images/radio_shop/ac_dc/-2994622632025118852.jpg"  alt="Источник питания с 220В в 12В">
-                          <p>~220V->12V,30A </p>
-                           <a href="#"><button type="button">2290.00</button></a>
+                          <h3>Термометр</h3>
+                          <img src="images/radio_shop/thermometr/-1530549939-657227398.jpg" width="960" height="960" alt="Цифровой темометр">
+                          <p>Диапазон измерений: 99С&deg;/99%, питание 12В</p>
+                           <a href="#"><button type="button">530.00</button></a>
                          </div> 
-                         <div class="item" >
-                           <h3>AC/DC</h3>
-                          <img src="images/radio_shop/ac_dc/-2994622632025118852.jpg"  alt="Источник питания с 220В в 12В">
-                          <p>~220V->12V,33A </p>
-                           <a href="#"><button type="button">2470.00</button></a>
+                              <div class="item" >
+                          <h3>Термометр</h3>
+                          <img src="images/radio_shop/thermometr/-2382831131672540786.jpg" width="700" height="700" alt="Цифровой темометр">
+                          <p></p>
+                           <a href="#"><button type="button">490.00</button></a>
+                         </div> 
+                              <div class="item" >
+                          <h3>Термометр+гигрометр</h3>
+                          <img src="images/radio_shop/thermometr/-1530549939-657227398.jpg" width="960" height="960" alt="Цифровой темометр">
+                          <p></p>
+                           <a href="#"><button type="button">490.00</button></a>
+                         </div> 
+                              <div class="item" >
+                          <h3>Термометр+часы</h3>
+                          <img src="images/radio_shop/thermometr/-10441498381087043220.jpg" width="800" height="800" alt="Цифровой темометр">
+                          <p>Питание:(4-27)В, темп. <=99C&deg;  </p>
+                           <a href="#"><button type="button">490.00</button></a>
+                         </div> 
+                        
+                              <div class="item" >
+                          <h3>Термометр</h3>
+                          <img src="images/radio_shop/thermometr/1054034728243133472.jpg" width="960" height="960" alt="Цифровой темометр">
+                          <p></p>
+                           <a href="#"><button type="button">340.00</button></a>
+                         </div> 
+                              <div class="item" >
+                          <h3>Термометр+вольтметр</h3>
+                          <img src="images/radio_shop/thermometr/1563014804-1091521787.jpg" width="960" height="960" alt="Цифровой темометр">
+                          <p>Питание:(4-27)В, темп. <=99C&deg; </p>
+                           <a href="#"><button type="button">490.00</button></a>
+                         </div> 
+                               <div class="item" >
+                          <h3>Термометр+вольтметр</h3>
+                          <img src="images/radio_shop/thermometr/19124178471145679434.jpg" width="800" height="800" alt="Цифровой темометр">
+                          <p></p>
+                           <a href="#"><button type="button">490.00</button></a>
                          </div> 
                          
-                            <div class="item" >
-                          <h3>AC/DC</h3>
-                          <img src="images/radio_shop/ac_dc/1024819242-430038275.jpg" alt="Источник питания с 220В в 12В">
-                          <p>~220V->12V,40A </p>
-                           <a href="#"><button type="button">2670.00</button></a>
+                   </div>  
+                                      <h2>Аналоговые термометры и измерители влажности</h2>
+                   <div class="item-desk">
+                   <div class="item" >
+                          <h3>Термометр+гигрометр</h3>
+                          <img src="images/radio_shop/ac_dc/-194390558465397369.jpg"  alt="Темометр с измерителем влажности">
+                          <p>Имеется возможность регулировки </p>
+                           <a href="#"><button type="button">240.00</button></a>
                          </div> 
-                         
-                         
-                      </div>    
+                   </div>    
+                    
+                   
                 </article>
             </div>
         </section>
